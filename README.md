@@ -1,3 +1,7 @@
+<h1 align="center"> Projeto E-commerce 💰🚀 </h1>
+
+![image of project ecommerce](https://github.com/Gabrielm3/react-ecommerce/blob/master/ecommerce-img.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
